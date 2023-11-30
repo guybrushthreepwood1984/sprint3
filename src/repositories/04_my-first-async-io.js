@@ -13,6 +13,7 @@ function readFilePrintNumberNewlines() {
 }
 
 readFilePrintNumberNewlines();
+
 /*
-toString() no hace falta, porque ya utilizamos UTF-8
+instead of UTF-8 we could use toString() as well
 */

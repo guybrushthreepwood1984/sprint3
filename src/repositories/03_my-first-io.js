@@ -9,7 +9,7 @@ const countLines = () => {
 
 countLines();
 
-// If you're looking for an easy way to count the number of newlines in a
+//   If you're looking for an easy way to count the number of newlines in a
 //   string, recall that a JavaScript String can be .split() into an array of
 //   substrings and that '\n' can be used as a delimiter. Note that the test
 //   file does not have a newline character ('\n') at the end of the last line,
